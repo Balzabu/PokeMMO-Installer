@@ -16,7 +16,7 @@ Please note the script **will not install Java SDK**, you can choose which versi
 ## Usage
 Execute the following one-liner or download and run the script, then follow the prompts.
 
-> **Bash one-liner**: &nbsp;&nbsp;  _wget -O - link | bash_
+> **Bash one-liner**: &nbsp;&nbsp;  _wget -O - https://raw.githubusercontent.com/Balzabu/PokeMMO-Installer/main/PokeMMO-Installer.sh | bash_
 
 Once you execute the Installer you will be asked on which folder you want to install the game.
 </br>The Installer will try to default to _$HOME/.PokeMMO_; in case you want to use a Custom Path simply **create it before executing the Installer**.
